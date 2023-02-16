@@ -1,1 +1,3 @@
-# Whiskey-Proof-Calculator
+If you're a whiskey aficionado, you know that adding water to your dram can enhance the aroma and flavor, but it can also affect the alcohol content. The proof, or alcoholic strength, of a whiskey is typically measured in the United States using a scale that's twice the percentage of alcohol by volume (ABV). For example, a whiskey with 50% ABV has a proof of 100.
+With Python programs like the ones in this GitHub repository, you can easily determine the proof of your whiskey after adding water. This can be especially useful if you're experimenting with different levels of dilution to find your preferred taste, or if you want to make sure you're not accidentally over- or under-diluting your whiskey.
+Overall, these Python programs can help whiskey enthusiasts better understand and enjoy their favorite spirit, by giving them a quick and easy way to calculate the proof after adding water.
